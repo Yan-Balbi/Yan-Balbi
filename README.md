@@ -1,6 +1,11 @@
+<!--
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ffff,100:0000ff&height=200&section=header&text=YAN%20BALBI&fontSize=40&fontColor=ffffff&animation=fadeIn"/>
 </p>
+-->
+
+<img src="https://raw.githubusercontent.com/Yan-Balbi/Yan-Balbi/main/assets/tron-grid-v2.svg" width="100%" onerror="this.src='https://api.dicebear.com/7.x/initials/svg?seed=YB&backgroundColor=00ffff'"/>
+
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com/?lines=Dev%20Backend%20e%20Fullstack;Sistemas%20de%20Gestao;APIs%20REST%20e%20Regras%20de%20Negocio;Sempre%20evoluindo&font=Fira%20Code&center=true&width=500&height=45&color=00FFFF&vCenter=true&pause=1000&size=22" />
