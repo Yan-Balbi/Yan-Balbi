@@ -52,7 +52,7 @@
 
 <p align="center">
   <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Yan-Balbi&show_icons=true&theme=tokyonight&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Yan-Balbi&layout=compact&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Yan-Balbi&layout=compact&theme=tokyonight&hide=roff"/>
 </p>
 
 ---
