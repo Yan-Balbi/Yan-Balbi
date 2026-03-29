@@ -7,7 +7,7 @@
   </text>
   -->
   <!-- Blinking Cursor -->
-  <text x="0" y="0.85em" font-family="monospace" font-size="1em" fill="#00ffff">▌
+  <text x="0" y="0.85em" font-family="monospace" font-size="3em" fill="#00ffff">▌
     <animate attributeName="opacity" values="1;0;1" dur="1s" repeatCount="indefinite" />
   </text>
 </svg>
