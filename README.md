@@ -54,6 +54,12 @@
   <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Yan-Balbi&show_icons=true&theme=tokyonight&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Yan-Balbi&layout=compact&theme=tokyonight&hide=roff"/>
 </p>
+<a href="https://github.com/ashutosh00710/github-readme-activity-graph">
+  <img 
+    alt="Yan's Activity Graph" 
+    src="https://github-readme-activity-graph.vercel.app/graph/?username=Yan-Balbi&bg_color=000000&color=00ffff&line=00ccff&point=ffffff&area=true&area_color=001a33&hide_border=true" 
+  />
+</a>
 
 ---
 
