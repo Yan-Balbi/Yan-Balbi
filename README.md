@@ -1,8 +1,9 @@
 <!-- Banner Superior -->
+<!--
 <p align="center">
   <img src="https://raw.githubusercontent.com/Yan-Balbi/Yan-Balbi/main/assets/tron-grid-v2.svg" width="100%" onerror="this.src='https://api.dicebear.com/7.x/initials/svg?seed=YB&backgroundColor=00ffff'"/>
 </p>
-
+-->
 <!-- Terminal e Typing alinhados perfeitamente com Tabela Invisível -->
 <table align="center" cellpadding="0" cellspacing="0" style="border-collapse: collapse;">
   <tr>
