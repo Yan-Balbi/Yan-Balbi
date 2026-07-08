@@ -5,16 +5,7 @@
 </p>
 -->
 <!-- Terminal e Typing alinhados perfeitamente com Tabela Invisível -->
-<table align="center" cellpadding="0" cellspacing="0" style="border-collapse: collapse;">
-  <tr>
-    <td valign="middle">
-      <img src="https://raw.githubusercontent.com/Yan-Balbi/Yan-Balbi/main/assets/terminal-blinking.svg" height="22" style="display: block; margin-bottom: 2px;" />
-    </td>
-    <td valign="middle">
-      <img src="https://readme-typing-svg.demolab.com/?lines=Dev%20Backend%20e%20Fullstack;Sistemas%20de%20Gestao;APIs%20REST%20e%20Regras%20de%20Negocio;Sempre%20evoluindo&font=Fira%20Code&center=false&width=450&height=45&color=00FFFF&vCenter=true&pause=1000&size=22" style="display: block;" />
-    </td>
-  </tr>
-</table>
+
 
 
 
